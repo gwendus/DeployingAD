@@ -156,7 +156,8 @@ Lastly, we will create a new OU named “_CLIENTS”.
 <br />
 Drag Client-1 into our new OU called _CLIENTS.
 <br/>
+<img src="https://i.imgur.com/tSYsGLb.png" height="60%" width="60%" alt="Drag into new OU called _CLIENTS."/>
 <br />
-
+<br />
 Finish the lab, but do not delete the VMs in Azure. We will use them for upcoming labs.
 If you are done for the day and want to save money, simply “Stop”/turn off the VMs within the Azure Portal
