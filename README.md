@@ -64,8 +64,8 @@ We will come to another menu where we are prompted to create a password for "Dir
 <br />
 Deselect "DNS delegation" when prompted, then click next until you reach the option for Installation. Proceed.
   <br />
-  
-<img src="https://i.imgur.com/AqzI1h4.png" height="70%" width="70%" alt="DNS delegation"/>
+  <br />
+<img src="https://i.imgur.com/AqzI1h4.png" height="60%" width="60%" alt="DNS delegation"/>
 <br />
 <br />
 
